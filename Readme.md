@@ -2,6 +2,9 @@
 
 A responsive SaaS landing page for NOVA, a fictional AI productivity platform. The project demonstrates modern React UI patterns, responsive design, accessible interactions, and a polished product-focused visual system.
 
+##Live URL
+https://apurvalabade-dev.github.io/-NOVA_AI_platform/
+
 ## Features
 
 - Responsive desktop and mobile navigation
